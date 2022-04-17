@@ -1,2 +1,2 @@
-# javascript_roulette
+# JavaScript Roulette
 Roleta JavaScript
